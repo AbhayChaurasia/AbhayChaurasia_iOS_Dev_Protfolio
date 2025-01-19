@@ -10,8 +10,13 @@
 - I’m currently working in a healthcare product-based organization **[Kailash Healthcare](https://apps.apple.com/in/app/kailash-healthcare-app/id1514137828)**
 
 ## 👨‍💻 Applications Developed
+- **Kailash Patient Application**:
 - **Doctor App**: [Kailash Doctor App](https://kailashhealthcare.com/doctorapp/doctorapp.aspx)
 - **Executive Application**: [Kailash Executive App](https://www.kailashhealthcare.com/usertaskapp/usertaskapp.aspx)
+-  **Team Managenent App**:
+- **First Step Staffing Application**
+- **Wouk Application**
+- **VIIP Application**
 
 ## 📝 Writing
 - I regularly write articles on **[Medium](https://medium.com/@ac37636)**
